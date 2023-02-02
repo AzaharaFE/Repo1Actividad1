@@ -17,6 +17,8 @@ public static void saludo(){
 		
 		System.out.println("Hola, soy Alfonso");
 		
+		
+System.out.println("3 comidas favoritas : macarrones, pizza y hamburguesa");
 	}
 
 }
