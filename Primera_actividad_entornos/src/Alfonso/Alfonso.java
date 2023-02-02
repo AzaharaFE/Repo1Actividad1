@@ -2,21 +2,18 @@ package Alfonso;
 
 public class Alfonso {
 
-
 	public static void main(String[] args) {
 		
 		saludo();
 		
 		hobbies();
 
-		comidas();
 	}
 	
 	public static void saludo(){
 
 		
 		System.out.println("Hola, soy Alfonso");
-		
 
 	}
 
@@ -24,12 +21,6 @@ public class Alfonso {
 
 	
 		System.out.println("3 HOBBIES : jugar a videojuegos, jugar al tenis, escuchar musica");
-	
-	}
-	
-	public static void comidas(){
-		
-		System.out.println("3 Comidas : Pizza, Tortilla de patatas, paella");
 	
 	}
 
