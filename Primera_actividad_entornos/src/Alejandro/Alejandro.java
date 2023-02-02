@@ -31,8 +31,9 @@ public class Alejandro {
 	public static void comida(){
 
 		
-		System.out.println("3 comidas : lentejas, pizza, arroz");
-	
+		System.out.println("lentejas");
+		System.out.println("arroz");
+		System.out.println("pizza");
 	}
 	
 }
