@@ -2,15 +2,21 @@ package Alfonso;
 
 public class Alfonso {
 
-	public static void main(String[] args) {
+
+	public static void main(String [] args) {
 		
-		escribeNombre();
-
+		saludo();
+		
 	}
+	
+public static void saludo(){
 
-	public static void escribeNombre() {
 		
 		System.out.println("Hola, soy Alfonso");
 		
 	}
+
 }
+ 
+
+
