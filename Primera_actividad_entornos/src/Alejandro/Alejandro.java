@@ -6,6 +6,7 @@ public class Alejandro {
 		
 		saludo();
 		
+		hobbies();
 
 	}
 	
@@ -13,9 +14,14 @@ public class Alejandro {
 
 		
 		System.out.println("Hola, soy Alejandro");
-		
+
 	}
 
+	public static void hobbies(){
 
 	
+		System.out.println("3 HOBBIES : ver fútbol, ir al gimnasio, hacer senderismo");
+	
+	}
+
 }
