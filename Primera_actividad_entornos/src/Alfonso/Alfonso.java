@@ -9,8 +9,10 @@ public class Alfonso {
 		System.out.println("Jugar videojuegos");
 		System.out.println("Jugar tenis");
 		System.out.println("Escuchar musica");
+		System.out.println("Pizza");
+		System.out.println("Tortilla de patatas");
+		System.out.println("Paella");
 		
-		System.out.println("3 comidas favoritas : macarrones, pizza y hamburguesa");
 	}
 	
 public static void saludo(){
@@ -19,8 +21,6 @@ public static void saludo(){
 		System.out.println("Hola, soy Alfonso");
 		
 		
-
-
 	}
 
 }
