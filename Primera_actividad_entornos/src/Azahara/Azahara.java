@@ -6,7 +6,8 @@ public class Azahara {
 		
 		System.out.println("Hola, soy Azahara");
 		
-
+		System.out.println("3 HOBBIES : leer, ir al gimnasio, escuchar musica");
+		
 	}
 
 }
