@@ -8,9 +8,6 @@ public class Alejandro {
 		
 		hobbies();
 		
-		comida();
-		
-
 	}
 	
 	public static void saludo(){
@@ -27,13 +24,5 @@ public class Alejandro {
 	
 	}
 	
-
-	public static void comida(){
-
-		
-		System.out.println("marisco");
-		System.out.println("albondigas");
-		System.out.println("paella");
-	}
 	
 }

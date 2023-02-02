@@ -9,7 +9,6 @@ public class Alfonso {
 		
 		hobbies();
 
-		comidas();
 	}
 	
 	public static void saludo(){
@@ -24,12 +23,6 @@ public class Alfonso {
 
 	
 		System.out.println("3 HOBBIES : jugar a videojuegos, jugar al tenis, escuchar musica");
-	
-	}
-	
-	public static void comidas(){
-		
-		System.out.println("3 Comidas : Pizza, Tortilla de patatas, paella");
 	
 	}
 
