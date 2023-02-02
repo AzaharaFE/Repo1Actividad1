@@ -33,7 +33,7 @@ public class Alejandro {
 		
 		System.out.println("lentejas");
 		System.out.println("arroz");
-		System.out.println("pizza");
+		System.out.println("pizzaaa");
 	}
 	
 }
