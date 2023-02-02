@@ -3,27 +3,27 @@ package Alfonso;
 public class Alfonso {
 
 
-	public static void main(String [] args) {
+	public static void main(String[] args) {
 		
 		saludo();
-		System.out.println("Jugar videojuegos");
-		System.out.println("Jugar tenis");
-		System.out.println("Escuchar musica");
-		System.out.println("Pizza");
-		System.out.println("Tortilla de patatas");
-		System.out.println("Paella");
+		
+		hobbies();
 		
 	}
 	
-public static void saludo(){
+	public static void saludo(){
 
 		
 		System.out.println("Hola, soy Alfonso");
 		
-		
+
+	}
+
+	public static void hobbies(){
+
+	
+		System.out.println("3 HOBBIES : jugar a videojuegos, jugar al tenis, escuchar musica");
+	
 	}
 
 }
- 
-
-
