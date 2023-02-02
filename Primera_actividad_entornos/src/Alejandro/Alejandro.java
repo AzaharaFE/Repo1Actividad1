@@ -8,7 +8,7 @@ public class Alejandro {
 		
 		hobbies();
 		
-		comidas2();
+		comida();
 		
 
 	}
@@ -28,7 +28,7 @@ public class Alejandro {
 	}
 	
 
-	public static void comidas2(){
+	public static void comida(){
 
 		
 		System.out.println("3 comidas : lentejas, pizza, arroz");
