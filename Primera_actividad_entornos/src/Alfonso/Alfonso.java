@@ -10,6 +10,10 @@ public class Alfonso {
 		System.out.println("Jugar tenis");
 		System.out.println("Escuchar musica");
 		
+		System.out.println("Pizza");
+		System.out.println("Tortilla de patatas");
+		System.out.println("paella");
+		
 	}
 	
 public static void saludo(){
