@@ -7,6 +7,8 @@ public class Alfonso {
 		saludo();
 		
 		hobbies();
+		
+		comidas();
 
 	}
 	
@@ -24,4 +26,9 @@ public class Alfonso {
 	
 	}
 
+	public static void comidas() {
+		
+		System.out.println("3 COMIDAS : Patatas , Lentejas , Marisco");
+	}
+	
 }
