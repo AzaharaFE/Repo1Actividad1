@@ -8,6 +8,7 @@ public class Alejandro {
 		
 		hobbies();
 
+		comidasFavoritas();
 	}
 	
 	public static void saludo(){
@@ -23,8 +24,10 @@ public class Alejandro {
 		System.out.println("3 HOBBIES : ver fútbol, ir al gimnasio, hacer senderismo");
 	
 	}
+
 	public static void comidasFavoritas() {
 		
 		System.out.println("3 COMIDAS : Arroz , Patatas , Carne");
 	}
+
 }
