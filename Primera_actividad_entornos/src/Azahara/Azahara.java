@@ -7,6 +7,8 @@ public class Azahara {
         saludo();
 
         hobbies();
+        
+        comidas();
 
     }
 
@@ -22,6 +24,11 @@ public class Azahara {
 
         System.out.println("3 HOBBIES : leer, ir al gimnasio, escuchar musica");
 
+    }
+    
+    public static void comidas() {
+    	
+    	System.out.println("3 COMIDAS : Patatas , Lentejas , Pizza");
     }
 
 }
