@@ -8,6 +8,7 @@ public class Alfonso {
 		
 		hobbies();
 
+		comidasFavoritas();
 	}
 	
 	public static void saludo(){
@@ -24,4 +25,10 @@ public class Alfonso {
 	
 	}
 
+	public static void comidasFavoritas(){
+
+		
+		System.out.println("3 COMIDAS : sushi, kebap, pizza");
+	
+	}
 }
