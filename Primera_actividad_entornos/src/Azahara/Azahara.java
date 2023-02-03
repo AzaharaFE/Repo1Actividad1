@@ -23,5 +23,8 @@ public class Azahara {
         System.out.println("3 HOBBIES : leer, ir al gimnasio, escuchar musica");
 
     }
-
+    public static void comidasFavoritas() {
+		
+		System.out.println("3 COMIDAS : Pasta , Pizza , Bocadillos");
+    }
 }
